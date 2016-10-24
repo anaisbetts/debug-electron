@@ -1,0 +1,14 @@
+{
+  "name": "debug-electron",
+  "description": "visionmedia/debug that loads correctly in Electron",
+  "author": {
+    "name": "Paul Betts",
+    "email": "paul@paulbetts.org"
+  },
+  "dependencies": {
+    "debug": "*"
+  },
+  "directories": {},
+  "license": "MIT",
+  "version": "0.0.1"
+}
